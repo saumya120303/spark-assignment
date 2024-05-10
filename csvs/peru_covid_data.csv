@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451433,Peru,"{'_id': 604, 'iso2': 'PE', 'iso3': 'PER', 'lat': -10, 'long': -76, 'flag': 'https://disease.sh/assets/img/flags/pe.png'}",4572667,0,222161,0,4350506,0,0,4,135751,6595,39010194,1158115,33684208,South America,7,152,1,0,129155.66,0.12

@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451385,Turkey,"{'_id': 792, 'iso2': 'TR', 'iso3': 'TUR', 'lat': 39, 'long': 35, 'flag': 'https://disease.sh/assets/img/flags/tr.png'}",17232066,0,102174,0,0,0,17129892,0,201399,1194,162743369,1902052,85561976,Asia,5,837,1,200204.49,0,0

@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451357,USA,"{'_id': 840, 'iso2': 'US', 'iso3': 'USA', 'lat': 38, 'long': -97, 'flag': 'https://disease.sh/assets/img/flags/us.png'}",111752653,0,1218763,0,109682509,0,851381,1111,333784,3640,1186851502,3544901,334805269,North America,3,275,0,2542.91,327600.9,3.32

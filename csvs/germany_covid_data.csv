@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451364,Germany,"{'_id': 276, 'iso2': 'DE', 'iso3': 'DEU', 'lat': 51, 'long': 9, 'flag': 'https://disease.sh/assets/img/flags/de.png'}",38826304,0,182891,0,38240600,0,402813,0,462859,2180,122332384,1458359,83883596,Europe,2,459,1,4802.05,455876.98,0

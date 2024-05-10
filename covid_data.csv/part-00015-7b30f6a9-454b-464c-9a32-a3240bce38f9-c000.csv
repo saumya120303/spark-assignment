@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451398,Netherlands,"{'_id': 528, 'iso2': 'NL', 'iso3': 'NLD', 'lat': 52.5, 'long': 5.75, 'flag': 'https://disease.sh/assets/img/flags/nl.png'}",8635591,0,22992,0,8612069,0,530,0,501735,1336,25984435,1509718,17211447,Europe,2,749,1,30.79,500368.68,0

@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451366,Brazil,"{'_id': 76, 'iso2': 'BR', 'iso3': 'BRA', 'lat': -10, 'long': -55, 'flag': 'https://disease.sh/assets/img/flags/br.png'}",38694221,0,710966,0,36249161,0,1734094,0,179678,3301,63776166,296146,215353593,South America,6,303,3,8052.31,168323.92,0

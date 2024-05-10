@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451380,Italy,"{'_id': 380, 'iso2': 'IT', 'iso3': 'ITA', 'lat': 42.8333, 'long': 12.8333, 'flag': 'https://disease.sh/assets/img/flags/it.png'}",26722143,0,196446,0,26356336,0,169361,27,443427,3260,280910073,4661420,60262770,Europe,2,307,0,2810.38,437356.86,0.45

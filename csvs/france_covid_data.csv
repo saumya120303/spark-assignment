@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451362,France,"{'_id': 250, 'iso2': 'FR', 'iso3': 'FRA', 'lat': 46, 'long': 2, 'flag': 'https://disease.sh/assets/img/flags/fr.png'}",40138560,0,167642,0,39970918,0,0,0,612013,2556,271490188,4139547,65584518,Europe,2,391,0,0,609456.61,0

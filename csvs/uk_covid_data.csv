@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451381,UK,"{'_id': 826, 'iso2': 'GB', 'iso3': 'GBR', 'lat': 54, 'long': -2, 'flag': 'https://disease.sh/assets/img/flags/gb.png'}",24910387,0,232112,0,24675212,0,3063,0,363666,3389,522526476,7628357,68497907,Europe,3,295,0,44.72,360233.08,0

@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451406,Poland,"{'_id': 616, 'iso2': 'PL', 'iso3': 'POL', 'lat': 52, 'long': 20, 'flag': 'https://disease.sh/assets/img/flags/pl.png'}",6661789,0,120597,0,0,0,6541192,0,176519,3195,39317656,1041809,37739785,Europe,6,313,1,173323.51,0,0

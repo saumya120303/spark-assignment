@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451408,Colombia,"{'_id': 170, 'iso2': 'CO', 'iso3': 'COL', 'lat': 4, 'long': -72, 'flag': 'https://disease.sh/assets/img/flags/co.png'}",6400173,0,143200,0,6212152,0,44821,342,124244,2780,36951507,717327,51512762,South America,8,360,1,870.1,120594.43,6.64

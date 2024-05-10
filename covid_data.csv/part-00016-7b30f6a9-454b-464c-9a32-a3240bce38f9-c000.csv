@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451396,Argentina,"{'_id': 32, 'iso2': 'AR', 'iso3': 'ARG', 'lat': -34, 'long': -64, 'flag': 'https://disease.sh/assets/img/flags/ar.png'}",10094643,0,130733,0,9963910,0,0,0,219400,2841,35716069,776264,46010234,South America,5,352,1,0,216558.56,0

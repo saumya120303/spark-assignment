@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451383,Russia,"{'_id': 643, 'iso2': 'RU', 'iso3': 'RUS', 'lat': 60, 'long': 100, 'flag': 'https://disease.sh/assets/img/flags/ru.png'}",24082671,0,402612,0,23500207,0,179852,0,165169,2761,273400000,1875095,145805947,Europe,6,362,1,1233.5,161174.54,0

@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451438,South Africa,"{'_id': 710, 'iso2': 'ZA', 'iso3': 'ZAF', 'lat': -29, 'long': 24, 'flag': 'https://disease.sh/assets/img/flags/za.png'}",4076463,0,102595,0,3912506,0,61362,192,67095,1689,26795090,441027,60756135,Africa,15,592,2,1009.97,64396.89,3.16

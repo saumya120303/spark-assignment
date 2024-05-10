@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451417,Ukraine,"{'_id': 804, 'iso2': 'UA', 'iso3': 'UKR', 'lat': 49, 'long': 32, 'flag': 'https://disease.sh/assets/img/flags/ua.png'}",5557995,0,112418,0,5445577,0,0,0,128681,2603,32603805,754855,43192122,Europe,8,384,1,0,126078.01,0

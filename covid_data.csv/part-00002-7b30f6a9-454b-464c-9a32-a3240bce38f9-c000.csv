@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451404,Indonesia,"{'_id': 360, 'iso2': 'ID', 'iso3': 'IDN', 'lat': -5, 'long': 120, 'flag': 'https://disease.sh/assets/img/flags/id.png'}",6829162,0,162063,0,6647104,0,19995,0,24465,581,114158919,408975,279134505,Asia,41,1722,2,71.63,23813.27,0

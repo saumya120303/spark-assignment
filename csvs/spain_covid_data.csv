@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451387,Spain,"{'_id': 724, 'iso2': 'ES', 'iso3': 'ESP', 'lat': 40, 'long': -4, 'flag': 'https://disease.sh/assets/img/flags/es.png'}",13914811,0,121760,0,13762417,0,30634,231,297840,2606,471036328,10082298,46719142,Europe,3,384,0,655.71,294577.69,4.94

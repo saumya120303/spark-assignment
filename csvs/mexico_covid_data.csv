@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451400,Mexico,"{'_id': 484, 'iso2': 'MX', 'iso3': 'MEX', 'lat': 23, 'long': -102, 'flag': 'https://disease.sh/assets/img/flags/mx.png'}",7702809,0,334958,0,6899865,0,467986,0,58549,2546,20013810,152124,131562772,North America,17,393,7,3557.13,52445.42,0

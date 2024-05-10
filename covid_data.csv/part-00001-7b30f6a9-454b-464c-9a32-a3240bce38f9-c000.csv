@@ -1,0 +1,2 @@
+updated,country,countryInfo,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,continent,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion
+1711614451402,Iran,"{'_id': 364, 'iso2': 'IR', 'iso3': 'IRN', 'lat': 32, 'long': 53, 'flag': 'https://disease.sh/assets/img/flags/ir.png'}",7627186,0,146811,0,0,0,7480375,0,88665,1707,57320267,666338,86022837,Asia,11,586,2,86958.01,0,0
