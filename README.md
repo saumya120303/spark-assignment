@@ -1,9 +1,8 @@
 
-# Project Name
-Spark-Project
+
 ## Description
 
-This project aims to collect and analyze COVID-19 data using APIs. It includes scripts to fetch data from an API, merge CSV files into a single DataFrame, and perform data analysis. Additionally, it provides a server to handle requests for specific data queries and a front-end interface to visualize the results.
+This project aims to collect and analyze COVID-19 data using various data sources. It includes scripts to fetch data from an API, merge CSV files into a single DataFrame, and perform data analysis. Additionally, it provides a server to handle requests for specific data queries and a front-end interface to visualize the results.
 
 ## Setup
 
@@ -42,4 +41,3 @@ This project aims to collect and analyze COVID-19 data using APIs. It includes s
 
 - After completing the setup steps, you can interact with the project through the provided scripts and front-end interface.
 - Modify the scripts as needed for custom data analysis or visualization requirements.
-
