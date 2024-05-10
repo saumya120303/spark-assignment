@@ -1,28 +1,5 @@
-# Ignore Python bytecode files
-*.pyc
 
-# Ignore Jupyter Notebook checkpoint files
-.ipynb_checkpoints/
-
-# Ignore virtual environment directories
-venv/
-env/
-ENV/
-
-# Ignore any compiled Python files
-*.pyc
-__pycache__/
-
-# Ignore system and IDE files
-.DS_Store
-.vscode/
-.idea/
-
-# Ignore any log files
-*.log
 
 # Ignore .env files containing sensitive information
 config/.env
 
-# Ignore any cache files
-.cache/
